@@ -1,7 +1,7 @@
 # Academy Fork — Provenance
 
 - **Upstream repository:** KubeMonitor — https://github.com/daniel-sanche/KubeMonitor
-- **Original authors:** "Licensor" shall mean the copyright owner or entity authorized by; the copyright owner that is granting the License.; copyright notice that is included in or attached to the work
+- **Original authors:** Not stated upstream — no author/copyright-holder attribution found in the upstream LICENSE, README, or repository metadata at acquisition; no credit substituted.
 - **License:** Apache-2.0 (upstream license governs the code; the upstream LICENSE file is unmodified)
 - **Fork point:** 0de98305e9ea006e824c9a2bf91d56a918483b9a (upstream HEAD of `master` at acquisition)
 - **Date acquired:** 2026-11-10
